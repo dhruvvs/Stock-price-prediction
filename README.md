@@ -19,7 +19,7 @@ This project implements a stock price prediction system using historical data an
 ## 🔍 Features
 
 - 📊 Uses historical data with technical indicators (Moving Average, RSI, etc.)
-- 🧠 Implements ML algorithms (Linear Regression, Decision Tree, Random Forest)
+- 🧠 Implements ML algorithms (Linear Regression, Decision Tree, Random Forest, LSTM)
 - 📈 Visualizes prediction vs actual prices using Matplotlib
 - 📁 Customizable for any stock via `.csv` input
 
