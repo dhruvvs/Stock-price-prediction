@@ -29,9 +29,10 @@ This project implements a stock price prediction system using historical data an
 
 - Linear Regression  
 - Decision Tree Regressor  
-- Random Forest Regressor  
+- Random Forest Regressor
+- LSTM
 
-(You can easily extend this to include LSTM or XGBoost!)
+(You can easily extend this to XGBoost!)
 
 ---
 
